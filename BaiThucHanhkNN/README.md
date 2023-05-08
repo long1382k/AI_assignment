@@ -18,4 +18,4 @@ nhiều biến
  Cải tiến: 
  + chỉnh sửa code chuẩn hơn so với bản gốc
  + Sử dụng grid_search để tối ưu siêu tham số
- + Sử dụng ensamble models nâng cao độ chính xác
+ + Sử dụng ensamble models nâng cao độ chính xác lên đáng kể
